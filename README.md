@@ -4,5 +4,6 @@ Hey, guys! Here's a list of useful practices that would help you understand unit
 ## React Practices:
 1. **[Promise Foods Exercise](https://github.com/sei-jed-10/promise-extra-exercise)**
 2. **[Harry Potter with React](https://github.com/sei-jed-10/harry-potter-extra-exercise)**
+3. **[React State Practice](https://github.com/sei-jed-10/React-State-Practice)**
 
 ---
